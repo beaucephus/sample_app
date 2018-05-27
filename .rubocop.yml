@@ -1,0 +1,59 @@
+Style/StringLiterals:
+  Enabled: false
+
+Style/FrozenStringLiteralComment:
+  Enabled: false
+
+Metrics/LineLength:
+  Max: 120
+
+Documentation:
+  Enabled: false
+
+Style/SymbolArray:
+  EnforcedStyle: brackets
+
+Bundler/OrderedGems:
+  Enabled: false
+
+Style/EmptyMethod:
+  Enabled: false
+
+Layout/EmptyLinesAroundAccessModifier:
+  Enabled: false
+
+Layout/EmptyLinesAroundBlockBody:
+  Enabled: false
+
+Layout/EmptyLinesAroundClassBody:
+  Enabled: false
+
+Layout/EmptyLinesAroundModuleBody:
+  Enabled: false
+
+Style/ClassAndModuleChildren:
+  Enabled: false
+
+Style/ExpandPathArguments:
+  Enabled: false
+
+Style/MixinUsage:
+  Enabled: false
+
+Style/StderrPuts:
+  Enabled: false
+
+Layout/SpaceInsideArrayLiteralBrackets:
+  Enabled: false
+
+Layout/SpaceInsideHashLiteralBraces:
+  Enabled: false
+
+Layout/ExtraSpacing:
+  Enabled: false
+
+Style/SymbolProc:
+  Enabled: false
+
+Layout/IndentationConsistency:
+  Enabled: false
