@@ -19,9 +19,6 @@ Bundler/OrderedGems:
 Style/EmptyMethod:
   Enabled: false
 
-Layout/EmptyLinesAroundAccessModifier:
-  Enabled: false
-
 Layout/EmptyLinesAroundBlockBody:
   Enabled: false
 
@@ -53,7 +50,4 @@ Layout/ExtraSpacing:
   Enabled: false
 
 Style/SymbolProc:
-  Enabled: false
-
-Layout/IndentationConsistency:
   Enabled: false
